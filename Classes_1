@@ -1,0 +1,38 @@
+<?php
+
+use_once _dir_ '/dfdfdfd/dfdfd/dfdd'
+
+
+namespace
+
+
+publicclass php ()
+{
+	private $var="";
+	
+	public function ($lastname, $firstname=null) : string
+	{
+			Connection con=new Connection($server, $db, $password);
+			
+			con->connect();
+			$stmt="";
+			con->execute($stmt);
+			con->getdataasarray();
+			
+			con->close();
+	}
+	
+	public function ()
+	{
+		$this.setName($name);
+		return
+	}
+	
+	public funciton(@$var) : int
+	{
+	
+	}
+	
+	
+}
+?>
