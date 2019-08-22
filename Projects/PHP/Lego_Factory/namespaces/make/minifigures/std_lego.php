@@ -33,7 +33,7 @@
 		{
 				
 		}
-		public get_head()
+		public set_torso()
 		{
 			
 			
@@ -41,8 +41,15 @@
 		
 		//Getters//
 		
+		public get_head();
+		public get_torso();
+		
 		//Doers//
 		
+		public calculate($num1,$num2) : int
+		{
+			return $answer;
+		}
 	}
 
 ?>
